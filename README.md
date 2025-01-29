@@ -12,3 +12,8 @@ alongside expertise in:
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) React.js
 
 I create seamless user experiences. Constantly exploring new technologies to push the boundaries of web development.
+### Social Links
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amiirhoceiin)
+
+
