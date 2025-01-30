@@ -12,7 +12,7 @@ alongside expertise in:
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) React.js
 
 I create seamless user experiences. Constantly exploring new technologies to push the boundaries of web development.
-### Social Links
+
 
 
 
