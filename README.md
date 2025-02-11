@@ -12,9 +12,6 @@ alongside expertise in:
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) React.js
 - ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=flat&logo=react-query&logoColor=white) React Query
-- ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) Redux
-- ![Context API](https://img.shields.io/badge/-Context_API-00ADEE?style=flat&logo=react&logoColor=white) Context API
-- ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=white) Axios
   
 I create seamless user experiences. Constantly exploring new technologies to push the boundaries of web development.
 
