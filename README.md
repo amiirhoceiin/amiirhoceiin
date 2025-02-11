@@ -12,6 +12,7 @@ alongside expertise in:
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) React.js
 - ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=flat&logo=react-query&logoColor=white) React Query
+- 
 I create seamless user experiences. Constantly exploring new technologies to push the boundaries of web development.
 
 
