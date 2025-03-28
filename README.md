@@ -12,6 +12,7 @@ alongside expertise in:
 
 alongside expertise in:
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) TypeScript
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) React.js
   
 I create seamless user experiences. Constantly exploring new technologies to push the boundaries of web development.
