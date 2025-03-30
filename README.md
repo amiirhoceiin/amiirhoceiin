@@ -1,6 +1,6 @@
 # Front-End Developer
 
-🌐 Front-End Developer focused on crafting responsive and intuitive web applications. With an understanding of modern JavaScript frameworks, CSS preprocessors, and UI/UX design principles.
+🌐 Front-End Developer focused on creating responsive and intuitive web applications. With an understanding of modern JavaScript frameworks, CSS preprocessors, and UI/UX design principles.
 
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) HTML
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) CSS
