@@ -13,7 +13,6 @@ alongside expertise in:
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) TypeScript
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) React.js
 - ![Next.js](https://img.shields.io/badge/-Next.js-FFFFFF?style=flat&logo=next.js&logoColor=000000) Next.js
-- 
 
 
 
